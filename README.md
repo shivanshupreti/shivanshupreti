@@ -3,7 +3,6 @@
 - 🌱 Java, Spring Boot, HTML, CSS, JavaScript, Vue.js, JDBC, Table Design, SQL, PostgreSQL, E/R diagrams, Agile, Unit Testing (JUnit), Mockito, Integration Testing, Docker, Maven, Git, IntelliJ
 - 💞️ I’m looking to collaborate on projects that fuse my technical skills with my eye for detail and problem-solving abilities.
 - 📫 How to reach me www.linkedin.com/in/shivanshupreti
-- 😄 Pronouns: Shiv-ansh
 - ⚡ Fun fact: I clinched first place in a woodworking competition during my school days, showcasing my hands-on creativity beyond the digital realm.
 
 <!---
